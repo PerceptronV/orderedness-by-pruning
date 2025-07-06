@@ -39,7 +39,7 @@ The codebase is organized as follows:
 If you use this code, please cite:
 
 ```bibtex
-@inproceedings{song2025pruninghierarchical,
+@inproceedings{song2025orderednesspruning,
   title={Pruning Increases Orderedness in Weight-Tied Recurrent Computation},
   author={Song, Yiding},
   booktitle={Methods and Opportunities at Small Scale (MOSS) Workshop @ ICML 2025},
